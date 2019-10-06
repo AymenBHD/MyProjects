@@ -127,7 +127,6 @@ void loop() {
         right(); break;
       default:
         stoper();
-
     }
   }
 }
